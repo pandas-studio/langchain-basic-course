@@ -22,19 +22,16 @@
 
 ## 📖 커리큘럼 (01~06)
 
-> 📓 **본편 6강 노트북은 모두 공개되었습니다 (2026-04-28).** 영상은 게시 일정에 따라 순차 공개됩니다.
+> 📓 **본편 6강 노트북·영상이 모두 공개되었습니다 (2026-04-28).**
 
 | # | 노트북 | 핵심 개념 | 🎬 영상 |
 |---|--------|----------|--------|
 | 01 | **GenAI 개론** | "다음 토큰 예측" 자판기 비유 · OpenAI SDK 첫 호출 · `temperature` · JSON 출력 | ✅ 이론편 · ✅ 실습편 |
-| 02 | **LangChain Core + LCEL** | `init_chat_model` · LCEL 파이프 (`\|`) · Runnable 4종 · Streaming · Batch | 🔒 공개 예정 |
-| 03 | **Prompt + Structured Output** | Zero/One/Few-shot 도화지 비유 · Pydantic 엑셀 양식 비유 · Example Selector | 🔒 공개 예정 |
-| 04 | **Tools** | `@tool` 데코레이터 · `bind_tools` · 수동 ReAct 루프 · Tavily 웹검색 + 폴백 | 🔒 공개 예정 |
-| 05 | **Agents** | `create_agent` 한 줄 · ReAct 다이어그램 · MemorySaver · 구조화 출력 · `@dynamic_prompt` | 🔒 공개 예정 |
-| 06 | **RAG Data Pipeline** | 임베딩 = 의미 좌표계 · FAISS · 청크 시각화 · LCEL 한 줄 RAG | 🔒 공개 예정 |
-
-> 📦 **심화·보너스 자료** 는 [`advanced/`](./advanced/) 폴더에 있습니다 (영상 모두 🔒 공개 예정).
-> - `07` Agentic RAG + RAGAS 평가
+| 02 | **LangChain Core + LCEL** | `init_chat_model` · LCEL 파이프 (`\|`) · Runnable 4종 · Streaming · Batch | ✅ 이론편 · ✅ 실습편 |
+| 03 | **Prompt + Structured Output** | Zero/One/Few-shot 도화지 비유 · Pydantic 엑셀 양식 비유 · Example Selector | ✅ 이론편 · ✅ 실습편 |
+| 04 | **Tools** | `@tool` 데코레이터 · `bind_tools` · 수동 ReAct 루프 · Tavily 웹검색 + 폴백 | ✅ 이론편 · ✅ 실습편 |
+| 05 | **Agents** | `create_agent` 한 줄 · ReAct 다이어그램 · MemorySaver · 구조화 출력 · `@dynamic_prompt` | ✅ 이론편 · ✅ 실습편 |
+| 06 | **RAG Data Pipeline** | 임베딩 = 의미 좌표계 · FAISS · 청크 시각화 · LCEL 한 줄 RAG | ✅ 이론편 · ✅ 실습편 |
 
 ---
 
@@ -87,19 +84,17 @@ uv run jupyter lab
 
 ## 📺 강의 영상 채널
 
-본 저장소의 강의 영상은 **인프런** 과 **유튜브 판다스 스튜디오** 채널에 게시됩니다. 강의 1개당 **이론편(슬라이드) + 실습편(노트북 시연) 2편** 으로 구성되어 있으며 (총 15편 — 본편 6×2 + 심화 1×2 + 보너스 1), 본 노트북은 **실습편 영상에서 다루는 자료** 입니다.
+본 저장소의 강의 영상은 **인프런** 과 **유튜브 판다스 스튜디오** 채널에 게시됩니다. 강의 1개당 **이론편(슬라이드) + 실습편(노트북 시연) 2편** 으로 구성되어 있으며 (총 12편 — 본편 6×2), 본 노트북은 **실습편 영상에서 다루는 자료** 입니다.
 
 | 강의 | 이론편 | 실습편 |
 |------|--------|--------|
 | 01 생성형 AI 개론 | ✅ 공개 | ✅ 공개 |
-| 02~06 본편 | 🔒 공개 예정 | 🔒 공개 예정 |
-| 07 심화 (Agentic RAG + RAGAS) | 🔒 공개 예정 | 🔒 공개 예정 |
-| 08 보너스 (Vibe Coding) | 🔒 공개 예정 | — |
+| 02~06 본편 | ✅ 공개 | ✅ 공개 |
 
 - 🎓 **인프런 강의** : _(링크 추가 예정)_
-- 📺 **유튜브 재생목록** : _(링크 추가 예정)_
+- 📺 **유튜브 재생목록** : <https://www.youtube.com/playlist?list=PL5bzmUGXvZNR9EXdqjCuETGfrKs_hdk7K>
 
-> 🆕 **본편 6강 노트북은 모두 공개되었습니다 (2026-04-28).** 영상은 1강(이론·실습)만 공개되었으며, 나머지는 순차 게시됩니다.
+> 🆕 **본편 6강 노트북·영상이 모두 공개되었습니다 (2026-04-28).**
 
 ---
 
