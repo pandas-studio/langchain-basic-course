@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+
+# Env
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# UV
+.uv-cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Course-specific data
+data/raw/
+
+# RAG 인덱스 산출물 (06번 노트북 실행 시 자동 재생성)
+faiss_index/
+
+# Internal operations / marketing metadata (not for external publication)
+_internal/
+
+# Lecture slides (private — not for external publication)
+slides/
+
+# 순차 공개 (2026-04-28) — 입문 트랙 01~06강 공개.
+# 심화/보너스(advanced/) 는 영상 게시 시점에 별도 공개합니다.
+# 주의: gitignore 에서 [] 는 character class 로 해석되므로 \[ \] 이스케이프 필수
+advanced/
