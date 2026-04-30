@@ -91,7 +91,7 @@ uv run jupyter lab
 | 01 생성형 AI 개론 | ✅ 공개 | ✅ 공개 |
 | 02~06 본편 | ✅ 공개 | ✅ 공개 |
 
-- 🎓 **인프런 강의** : _(링크 추가 예정)_
+- 🎓 **인프런 강의** : <https://inf.run/avW8v>
 - 📺 **유튜브 재생목록** : <https://www.youtube.com/playlist?list=PL5bzmUGXvZNR9EXdqjCuETGfrKs_hdk7K>
 
 > 🆕 **본편 6강 노트북·영상이 모두 공개되었습니다 (2026-04-28).**
@@ -115,7 +115,7 @@ uv run jupyter lab
 ## 🐛 이슈 / 질문
 
 - **오타·코드 오류**: [GitHub Issues](https://github.com/pandas-studio/langchain-basic-course/issues) (Label: `bug`)
-- **학습 질문**: **인프런 강의 Q&A 게시판만 사용해주세요** (GitHub 저장소는 코드 이슈 전용)
+- **학습 질문**: **인프런 강의 Q&A 게시판[](https://inf.run/avW8v)만 사용해주세요** (GitHub 저장소는 코드 이슈 전용)
 - **라이선스 문의**: [GitHub Issues](https://github.com/pandas-studio/langchain-basic-course/issues) (Label: `license-inquiry`)
 
 ---
