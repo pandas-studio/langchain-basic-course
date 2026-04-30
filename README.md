@@ -115,7 +115,7 @@ uv run jupyter lab
 ## 🐛 이슈 / 질문
 
 - **오타·코드 오류**: [GitHub Issues](https://github.com/pandas-studio/langchain-basic-course/issues) (Label: `bug`)
-- **학습 질문**: **인프런 강의 Q&A 게시판[](https://inf.run/avW8v)만 사용해주세요** (GitHub 저장소는 코드 이슈 전용)
+- **학습 질문**: [인프런 강의 Q&A 게시판](https://inf.run/avW8v)만 사용해주세요** (GitHub 저장소는 코드 이슈 전용)
 - **라이선스 문의**: [GitHub Issues](https://github.com/pandas-studio/langchain-basic-course/issues) (Label: `license-inquiry`)
 
 ---
